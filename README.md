@@ -1,0 +1,2 @@
+# ginzo.loudo.game
+ludo
